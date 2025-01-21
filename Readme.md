@@ -1,4 +1,4 @@
-**Create Plot for visualizing RNA seq coverage across the gene model position
+*Create Plot for visualizing RNA seq coverage across the gene model position
 
 Scripts have file paths as demo for maize files and HCC directories. 
 
